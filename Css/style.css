@@ -10,6 +10,20 @@ body{
     color: #F7F6F6;
     background-color: #09090B;
 }
+
+.navbar {
+  display: flex;
+  justify-content: space-between; 
+  align-items: center;            
+  padding: 20px 40px;             
+}
+
+.navbar nav a {
+  margin-left: 20px;              
+  text-decoration: none;          
+  color: white;                   
+}
+
 .introtext{
     color: #F7F6F6;
     background-color: #09090B;
@@ -24,15 +38,45 @@ body{
     padding-left: 60px;
     padding-right: 60px;
 }
-.navbar {
-  display: flex;
-  justify-content: space-between; 
-  align-items: center;            
-  padding: 20px 40px;             
+.introbild{
+display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 450px;
+    height: auto;
+    border-radius: 12px;
+    background-color: #6E31DE; 
+    padding: 3px;
 }
 
-.navbar nav a {
-  margin-left: 20px;              
-  text-decoration: none;          
-  color: white;                   
+.introbut{
+  display: block;            
+    margin-left: 160px;         
+    margin-right: auto; 
+    margin-top: 50px;       
+    
+    padding: 15px 45px;        
+    background-color: #6E31DE; 
+    color: white;              
+    border: none;              
+    border-radius: 8px;        
+    font-size: 16px;           
+    cursor: pointer;
+  
+}
+.hero {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;            
+    padding: 60px;                  
+}
+
+.hero-text {
+    flex: 1;                        
+}
+
+.hero-image img {
+    max-width: 450px;              
+    height: auto;
+    border-radius: 12px;             
 }

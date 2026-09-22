@@ -9,6 +9,16 @@ Ich möchte Unity benutzen und Libresprites. Musik will ich auch erstellen
 ### Generelle Ziele
 Ich möchte meine Programmier Fähigkeiten festigen und einen Guten Portfolio Page haben.
 
+## 22.9.2026
+# Meine Ziele
+1. Bild einfügen
+2. Alles Formatieren / Stylen
+3. Button hinzufügen
+
+# Fazit
+Ich habe alle Ziele erreicht, ich musste mehrere Klassen machen, damit man alles einzeln einstellen kann und man so leichter designer kann.
+
+
 ## 21.9.2026
 # Meine Ziele
 1. Den Header bereich anfangen.

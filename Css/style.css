@@ -54,7 +54,6 @@ display: block;
     margin-left: 160px;         
     margin-right: auto; 
     margin-top: 50px;       
-    
     padding: 15px 45px;        
     background-color: #6E31DE; 
     color: white;              
@@ -79,4 +78,67 @@ display: block;
     max-width: 450px;              
     height: auto;
     border-radius: 12px;             
+}
+
+.tech-text{
+   text-align: center;
+}
+
+.referenzefoot {
+    background-color: #6E31DE; 
+    padding: 40px;
+}
+
+
+.ref-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.reflinks, .refrechts {
+    background-color: #4C1D95; 
+    padding: 50px;
+    flex: 1;                    
+    margin: 20px;               
+    border-radius: 64px;
+}
+.refcon{
+display: block;
+    margin-left: 20px;
+    margin-right: 0px;
+    border-radius: 12px;
+    background-color: #6E31DE; 
+    padding: 3px;
+}
+
+.refbild{
+    
+    max-width: 200px;          /* Etwas angepasst, damit es perfekt reinpasst */
+    height: auto;
+    border-radius: 12px;
+    background-color: #6E31DE; 
+    padding: 3px;
+
+}
+
+.ref-image {
+    flex: 1;                   /* Bild nimmt den rechten Bereich ein */
+    display: flex;
+    justify-content: center;   /* Zentriert das Bild in seiner Spalte */
+}
+
+.ref-text {
+    flex: 1;                   /* Text nimmt den linken Bereich ein */
+}
+
+.reflinks, .refrechts {
+    background-color: #4C1D95; 
+    padding: 50px;
+    flex: 1;                     
+    margin: 20px;               
+    border-radius: 64px;
+    
+    display: flex;             /* Macht beide Boxen zu Flexbox-Containern */
+    justify-content: space-between; /* Verteilt Text links und Bild rechts */
+    align-items: center;       /* Zentriert alles vertikal */
 }

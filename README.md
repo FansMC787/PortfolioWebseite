@@ -9,6 +9,17 @@ Ich möchte Unity benutzen und Libresprites. Musik will ich auch erstellen
 ### Generelle Ziele
 Ich möchte meine Programmier Fähigkeiten festigen und einen Guten Portfolio Page haben.
 
+## 23.9.2026
+# Meine Ziele
+1. Referenz container einfügen
+2. Die navbar benutzbar machen
+3. Button einen Funktion geben
+
+# Fazit
+Ich habe alle Ziele erreicht und habe seit langem wieder javascript benutzt und werde auch in der zukunft benutzen und vielleicht noch ein paar secrets einbauen.
+
+
+
 ## 22.9.2026
 # Meine Ziele
 1. Bild einfügen

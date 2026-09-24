@@ -23,7 +23,14 @@ body{
   text-decoration: none;          
   color: white;                   
 }
-
+.navbarbild {
+    width: 1750px;          
+    height: auto;
+    position: absolute;
+    margin-top: 650px;
+    right: 0px;
+    transform: translateY(-50%) scaleY(-1);
+}
 .introtext{
     color: #F7F6F6;
     background-color: #09090B;
@@ -113,7 +120,7 @@ display: block;
 
 .refbild{
     
-    max-width: 200px;          /* Etwas angepasst, damit es perfekt reinpasst */
+    max-width: 200px;          
     height: auto;
     border-radius: 12px;
     background-color: #6E31DE; 
@@ -122,13 +129,13 @@ display: block;
 }
 
 .ref-image {
-    flex: 1;                   /* Bild nimmt den rechten Bereich ein */
+    flex: 1;                   
     display: flex;
-    justify-content: center;   /* Zentriert das Bild in seiner Spalte */
+    justify-content: center;   
 }
 
 .ref-text {
-    flex: 1;                   /* Text nimmt den linken Bereich ein */
+    flex: 1;                   
 }
 
 .reflinks, .refrechts {
@@ -138,7 +145,7 @@ display: block;
     margin: 20px;               
     border-radius: 64px;
     
-    display: flex;             /* Macht beide Boxen zu Flexbox-Containern */
-    justify-content: space-between; /* Verteilt Text links und Bild rechts */
-    align-items: center;       /* Zentriert alles vertikal */
+    display: flex;             
+    justify-content: space-between; 
+    align-items: center;       
 }

@@ -1,12 +1,11 @@
 @font-face {
   font-family: 'Open Sans';
-  src: url('C:\Users\Danie\Documents\GitHub\Webseite\Portfolio\PortfolioWebseite\PortfolioWebseite\Css\fonts/Montserrat-Italic-VariableFont_wght.ttf') format('truetype');
+  src: url('fonts/Montserrat-Italic-VariableFont_wght.ttf') format('truetype'); 
   font-weight: 300 800; 
   font-style: normal;
 }
-body{
+body {
     font-family: 'Open Sans', sans-serif;
-    
     color: #F7F6F6;
     background-color: #09090B;
 }
@@ -87,7 +86,115 @@ display: block;
     border-radius: 12px;             
 }
 
-.tech-text{
+
+.tech-ueber{
+    text-align: center;
+}
+.tech-container {
+    display: flex;
+    flex-wrap: wrap;        
+    justify-content: center; 
+    gap: 20px;              
+    padding: 0 40px;        
+}
+
+.tech-bild1 {
+    width: 300px;            
+    height: auto;
+    margin-bottom: 15px;
+}
+.tech-text1 {
+    background-color: #18181B; 
+    padding: 40px;
+    flex: 0 0 31%;          
+    max-width: 350px;       
+    margin: 10px;               
+    border-radius: 32px;
+    
+    display: flex;           
+    flex-direction: column;  
+    align-items: center;     
+    text-align: center;
+}
+
+.tech-bild2 {
+    padding-top: 30px;
+    width: 100px;            
+    height: auto;
+    margin-bottom: 69px;
+}
+.tech-text2 {
+    background-color: #18181B; 
+    padding: 40px;
+    flex: 0 0 31%;          
+    max-width: 350px;       
+    margin: 10px;               
+    border-radius: 32px;
+    
+    display: flex;           
+    flex-direction: column;  
+    align-items: center;     
+    text-align: center;
+}
+.tech-bild3 {
+    padding-top: 15px;
+    width: 120px;            
+    height: auto;
+    margin-bottom: 50px;
+}
+.tech-text3 {
+    background-color: #18181B; 
+    padding: 40px;
+    flex: 0 0 31%;          
+    max-width: 350px;       
+    margin: 10px;               
+    border-radius: 32px;
+    
+    display: flex;           
+    flex-direction: column;  
+    align-items: center;     
+    text-align: center;
+}
+.tech-bild4 {
+    padding-top: 25px;
+    width: 105px;            
+    height: auto;
+    margin-bottom: 54px;
+}
+.tech-text4 {
+    background-color: #18181B; 
+    padding: 40px;
+    flex: 0 0 31%;         
+    max-width: 350px;       
+    margin: 10px;               
+    border-radius: 32px;
+    
+    display: flex;           
+    flex-direction: column;  
+    align-items: center;     
+    text-align: center;
+}
+.tech-bild5 {
+    padding-top: 10px;
+    width: 110px;            
+    height: auto;
+    margin-bottom: 65px;
+}
+.tech-text5 {
+    background-color: #18181B; 
+    padding: 40px;
+    flex: 0 0 31%;          
+    max-width: 350px;       
+    margin: 10px;               
+    border-radius: 32px;
+    
+    display: flex;           
+    flex-direction: column;  
+    align-items: center;     
+    text-align: center;
+}
+
+.ref-ueber{
    text-align: center;
 }
 
@@ -110,7 +217,7 @@ display: block;
     border-radius: 64px;
 }
 .refcon{
-display: block;
+    display: block;
     margin-left: 20px;
     margin-right: 0px;
     border-radius: 12px;

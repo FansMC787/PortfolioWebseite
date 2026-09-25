@@ -9,6 +9,17 @@ Ich möchte Unity benutzen und Libresprites. Musik will ich auch erstellen
 ### Generelle Ziele
 Ich möchte meine Programmier Fähigkeiten festigen und einen Guten Portfolio Page haben.
 
+## 25.9.2026
+# Meine Ziele
+1. Technologien Bereich fertig machen.
+2. Den Design finalisieren.
+3. Den Code übersichtlicher machen.
+
+# Fazit
+Ich habe alle Ziele erreich, die schwierigkeit war eindeutig das alle Elemente so in eine reihe sind wie sie gerade sind und das den Text bei allen gleich aussieht, also damit meine ich das alle von der y-Achse gleich positioniert sind. Die Welle Oben habe ich oben noch drangemacht und denke das es so viel besser und dynamischer aussieht.
+
+
+
 ## 23.9.2026
 # Meine Ziele
 1. Referenz container einfügen

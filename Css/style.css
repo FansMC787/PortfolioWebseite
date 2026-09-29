@@ -9,7 +9,10 @@ body {
     color: #F7F6F6;
     background-color: #09090B;
 }
-
+a{
+    text-decoration: none;
+    color: inherit;
+}
 .navbar {
   display: flex;
   justify-content: space-between; 
@@ -281,4 +284,65 @@ display: block;
     display: flex;             
     justify-content: space-between; 
     align-items: center;       
+}
+
+.kontakt-text {
+    flex: 1;                   
+}
+
+.kontakt-image {
+    flex: 1;                   
+    display: flex;
+    justify-content: center;   
+}
+.kontaktcon {
+    background-color: #18181B; 
+    padding: 50px;
+    flex: 1;                     
+    margin: 20px;               
+    border-radius: 64px;
+    
+    display: flex;             
+    justify-content: space-between; 
+    align-items: center;       
+}
+
+.kontaktbild{
+    
+    max-width: 200px;          
+    height: auto;
+    border-radius: 12px;
+    background-color: black; 
+    padding: 3px;
+
+}
+
+.projekt-container{
+    display: flex;
+    flex-wrap: wrap;        
+    justify-content: center; 
+    gap: 20px;
+    max-width: 1100px;      
+    margin: 0 auto;              
+    padding: 0 40px; 
+}
+
+.projekt-text1 {
+    background-color: #18181B; 
+    padding: 40px;
+    flex: 0 0 31%;          
+    max-width: 350px;       
+    margin: 10px;               
+    border-radius: 32px;
+    
+    display: flex;           
+    flex-direction: column;  
+    align-items: center;     
+    text-align: center;
+}
+
+.projekt-bild1 {
+    width: 300px;            
+    height: auto;
+    margin-bottom: 15px;
 }

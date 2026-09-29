@@ -9,6 +9,16 @@ Ich möchte Unity benutzen und Libresprites. Musik will ich auch erstellen
 ### Generelle Ziele
 Ich möchte meine Programmier Fähigkeiten festigen und einen Guten Portfolio Page haben.
 
+## 28.9.2026
+# Meine Ziel
+1. Kontakt bereich Feritg programmieren
+2. Mit Videos anfangen für die Vorstellungen der Projekte
+3. Projekte bereich anfangen.
+
+# Fazit
+Habe vergessen das hochzuladen und deswegen mache ich das erst am 29.9. Ich werde die einzelnen Projekten in einem Ordner reintun, weil es so geordneter ist und wusste nich das z.b der stylesheet anders verlinkt sein muss, weil es ja nicht mehr im gleichen ordner ist sonder 2 drüber also musste ich das mit ../../ machen damit das funktioniert.
+
+
 ## 27.9.2026
 # Meine Ziel
 1. Home fertig Programmieren.

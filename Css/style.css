@@ -321,7 +321,7 @@ display: block;
     display: flex;
     flex-wrap: wrap;        
     justify-content: center; 
-    gap: 20px;
+    gap: 10px;
     max-width: 1100px;      
     margin: 0 auto;              
     padding: 0 40px; 
@@ -345,4 +345,52 @@ display: block;
     width: 300px;            
     height: auto;
     margin-bottom: 15px;
+    background-color: whitesmoke;
+    padding: 1%;
+    
+}
+.TitelLabyrinth{
+    display: flex;
+    max-width: 930px; /* Passt sich der Gesamtbreite an (800px Video + 100px Logo + Lücke) */
+    width: 100%;
+    margin: 50px auto 0 auto; /* Zentriert den Titel exakt über dem Video-Bereich */
+    padding: 0 40px;
+}
+
+.video-container{
+    display: flex;
+    max-width: 930px; /* Gleiche Breite wie der Titel */
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    justify-content: space-between;
+    align-items: flex-end; 
+    margin: 0 auto;
+    padding: 0 40px;
+    
+    
+}
+.video-video{
+    padding-top: 5%;
+    width: 800px;
+    height: auto;
+    margin-bottom: 15px;
+}
+.LabyrinthGithub{
+    width: 100px;
+    height: auto;
+    background-color: #18181B;
+    border-radius: 16px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 15px; /* Gleicht den Abstand zum unteren Rand an */
+
+}
+.LabyrinthGithubBild{
+    width: 100%;
+    height: auto;
+    display: block;
+    margin-bottom: 0; /* Entfernt den zu großen Abstand */
 }

@@ -9,6 +9,16 @@ Ich möchte Unity benutzen und Libresprites. Musik will ich auch erstellen
 ### Generelle Ziele
 Ich möchte meine Programmier Fähigkeiten festigen und einen Guten Portfolio Page haben.
 
+## 01.10.2026
+# Meine Ziel
+1. Video aufnehmen.
+2. 2D jumpnrun bereich fertig programmieren.
+3. Video einbinden.
+
+# Fazit
+Ich habe ein Video aufgenommen und das Video eingebunden und den 2D jumpnrun bereich habe ich feritg programmiert.
+
+
 ## 28.9.2026
 # Meine Ziel
 1. Kontakt bereich Feritg programmieren

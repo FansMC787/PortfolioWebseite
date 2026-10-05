@@ -349,6 +349,8 @@ display: block;
     padding: 1%;
     
 }
+
+
 .TitelLabyrinth{
     display: flex;
     max-width: 930px; /* Passt sich der Gesamtbreite an (800px Video + 100px Logo + Lücke) */

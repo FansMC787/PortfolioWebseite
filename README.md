@@ -9,6 +9,14 @@ Ich möchte Unity benutzen und Libresprites. Musik will ich auch erstellen
 ### Generelle Ziele
 Ich möchte meine Programmier Fähigkeiten festigen und einen Guten Portfolio Page haben.
 
+## 05.10.2026
+# Meine Ziel
+1. 2D Jump 'n' run Video drehen und einfügen.
+
+# Fazit
+Ich habe ein Video aufgenommen und das Video eingebunden, ich habe noch ein Vermerk geschrieben auf den Projekten Slide, dass nur fertige Projekte aufgelistet werden.
+
+
 ## 01.10.2026
 # Meine Ziel
 1. Video aufnehmen.
